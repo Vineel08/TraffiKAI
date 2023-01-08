@@ -21,9 +21,9 @@ Teck Stack: Python, PyQT, OpenCV, Streamlit
 ## Emergency Vehicle Detection
 Emergency Vehicle is detected by two methods in order to ensure the certainty of presence of an emergency vehicle in the input medium. The two methods include audio and video. Firstly, the video is processed frame by frame and the presence of emergency vehicles are found out and returns the confidence level and it returns a probability score.
 The detection is also preformed through audio and the video's audio is passed through a CNN model which gives a probability score.
-The probability scores from each models is obtained and ensemble learning is performed to get the final verdict.
-Image Classification alogorithm: DenseNet-169 
-Teck Stack: Python, PyQT, OpenCV, Streamlit
+The probability scores from each models is obtained and ensemble learning is performed to get the final verdict.  
+Image Classification alogorithm: DenseNet-169  
+Tech Stack: Python, PyQT, OpenCV, Streamlit
 
 System Workflow:-  
 
