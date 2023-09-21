@@ -55,6 +55,7 @@ Collaborators:
 Mani Kanta: [https://github.com/Manikanta-7342](url)  
 Akhil: [https://github.com/Akhil5347](url)  
 Shreyas: [https://github.com/ShreyasKuntnal](url)
+Nishank: [https://github.com/NishankKS](url)
 
 
 
